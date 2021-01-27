@@ -1,6 +1,6 @@
 {
-    "name": "kuiupload",
-    "description": "文件上传",
+    "name": "kui/upload",
+    "description": "upload file",
     "license": "MIT",
     "authors": [
         {
